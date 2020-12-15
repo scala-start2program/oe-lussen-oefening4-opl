@@ -101,6 +101,7 @@ namespace Scala.LussenOefening4.Wpf
             wedstrijden.Clear();
             VulPloegen();
             VulListboxen();
+            btnLoot.IsEnabled = true;
 
         }
     }
